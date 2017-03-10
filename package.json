@@ -1,0 +1,22 @@
+{
+  "name": "testdbproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "alex",
+  "license": "ISC",
+  "dependencies": {
+    "Q": "0.0.1",
+    "axios": "^0.15.3",
+    "csvtojson": "^1.1.3",
+    "dotenv": "^4.0.0",
+    "jsftp": "^1.5.5",
+    "moment": "^2.17.1",
+    "moment-timezone": "^0.5.11",
+    "pg": "*"
+  }
+}
